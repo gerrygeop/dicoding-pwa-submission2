@@ -1,0 +1,98 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.standing-padding {
+  padding: 10px 15px;
+}
+.match-padding {
+  padding: 8px 8px;
+}
+.status-match-padding {
+  text-align: left;
+  padding: 2px 0 !important;
+  font-size: 11px;
+}
+.card-match {
+  transition: all 0.2s;
+}
+.card-match:hover {
+  box-shadow: 0 3px 4px rgba(0, 0, 0, 0.4);
+  transform: translateY(-3px);
+  cursor: pointer;
+}
+
+.b-red {
+  border: 1px red solid;
+}
+
+.h-100 {
+  height: 100px;
+}
+
+.flex,
+.flex-standing {
+  display: flex;
+  align-items: center;
+}
+.flex {
+  justify-content: center;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.mr-10 {
+  margin-right: 10px;
+}
+.ml-10 {
+  margin-left: 20px;
+}
+
+.my-container {
+  padding: 0 70px;
+}
+
+.p-4 {
+  padding: 2px 8px;
+  border-radius: 2px;
+}
+
+.text-italic {
+  color: #555 !important;
+  font-style: italic !important;
+}
+
+@media only screen and (max-width: 425px) {
+  .standing-padding {
+    padding: 0;
+  }
+
+  .match-padding {
+    padding: 2px;
+    font-size: 12px;
+  }
+
+  .status-match-padding {
+    text-align: center;
+  }
+
+  .my-container {
+    padding: 0;
+  }
+
+  .header-standing {
+    font-size: 25px;
+    font-weight: 400;
+  }
+
+  .mr-10 {
+    margin-right: 5px;
+  }
+
+  .btn-flat {
+    font-size: 10px !important;
+    padding: 0 8px !important;
+  }
+}
