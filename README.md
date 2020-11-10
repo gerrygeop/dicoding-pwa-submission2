@@ -1,5 +1,5 @@
-# dicoding-pwa-submission1
-Dicoding - Membangun Progressive Web Apps (Submission 1)
+# dicoding-pwa-submission2
+Dicoding - Membangun Progressive Web Apps (Submission 2)
 
 ### Telah Disetujui
 
