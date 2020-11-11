@@ -1,8 +1,6 @@
 # dicoding-pwa-submission2
 Dicoding - Membangun Progressive Web Apps (Submission 2)
 
-### #Telah Disetujui
-
 #### #Kriteria Submission
 <ul>
   <li>Menampilkan minimal 2 halaman yang mengonsumsi data dari website football-data.org. (Terpenuhi)</li>
